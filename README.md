@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ga-profile-header.svg" alt="Guilherme Anselmo — Desenvolvedor Web" width="100%" />
+  <img src="./assets/guilherme-banner-sem-logo.svg" alt="Guilherme Anselmo — Desenvolvedor Web" width="100%" />
 
   <br />
 
