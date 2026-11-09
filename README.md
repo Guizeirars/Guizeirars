@@ -20,7 +20,7 @@ Gosto de transformar ideias em experiências digitais funcionais, com atenção 
 
 - 📍 São Paulo, Brasil
 - 🎓 Desenvolvimento de Sistemas — FIAP School *(em andamento)*
-- 💻 Desenvolvimento front-end, sites responsivos e aplicações web
+- 💻 Desenvolvimento front-end, sites e aplicações web
 - 🤝 Disponível para projetos e colaborações
 
 ## 🛠️ Tecnologias e ferramentas
